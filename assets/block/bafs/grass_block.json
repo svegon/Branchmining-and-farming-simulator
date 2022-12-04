@@ -1,0 +1,5 @@
+{
+  "renderer": "cuboid",
+  "model": "default_cube",
+  "textures": "assets/textures/block/bafs/grass_block.png"
+}

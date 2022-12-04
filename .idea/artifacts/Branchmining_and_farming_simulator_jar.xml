@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Branchmining and farming simulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Branchmining_and_farming_simulator_jar</output-path>
+    <root id="archive" name="Branchmining and farming simulator.jar">
+      <element id="module-output" name="Branchmining and farming simulator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.0.1-jre/119ea2b2bc205b138974d351777b20f02b92704b/guava-31.0.1-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="src" />
+      <element id="library" level="project" name="extended java utils" />
+    </root>
+  </artifact>
+</component>

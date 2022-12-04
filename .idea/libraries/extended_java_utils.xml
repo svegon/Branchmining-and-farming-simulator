@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="extended java utils">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../extended java utils/out/production/extended java utils" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../extended java utils/src" />
+    </SOURCES>
+  </library>
+</component>
