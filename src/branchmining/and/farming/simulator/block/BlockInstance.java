@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.ListIterator;
 
 public class BlockInstance {
-    public static final BlockInstance EMPTY = new BlockInstance();
+    public static final BlockInstance AIR = new BlockInstance();
 
     private final ImmutableList<Block> blocks;
     private final ImmutableList<BlockData> datas;

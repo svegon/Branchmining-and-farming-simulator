@@ -38,7 +38,7 @@ public abstract class World extends DedicatedThreadExecutor<Runnable> implements
     @Override
     public BlockInstance getBlock(Vec3i pos) {
         if (pos.getY() < getMinHeight() || pos.getY() > getMaxHeight()) {
-            return BlockInstance.EMPTY;
+            return BlockInstance.AIR;
         }
 
         return getChunkManager().getBlock(pos);

@@ -36,7 +36,7 @@ public class WorldChunk implements Chunk {
         SubChunk subChunk = subChunkMap.get(SubChunk.subChunkPos(pos));
 
         if (subChunk == null) {
-            return BlockInstance.EMPTY;
+            return BlockInstance.AIR;
         }
 
         return subChunk.getBlock(pos);

@@ -17,7 +17,7 @@ public class WorldSubChunk implements SubChunk {
         this.backRef = backRef;
         this.relativePos = relativePos;
 
-        ArrayUtil.fill(blocks, BlockInstance.EMPTY);
+        ArrayUtil.fill(blocks, BlockInstance.AIR);
     }
 
     private static int posToIndex(Vec3i pos) {

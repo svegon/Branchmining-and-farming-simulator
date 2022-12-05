@@ -15,7 +15,7 @@ public class EmptyChunk implements Chunk {
 
     @Override
     public BlockInstance getBlock(Vec3i pos) {
-        return BlockInstance.EMPTY;
+        return BlockInstance.AIR;
     }
 
     @Override
