@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: branchmining.and.farming.simulator.startup.Main
-Class-Path: annotations-20.1.0.jar guava-31.0.1-jre.jar jcip-annotations
- -1.0.jar
-
