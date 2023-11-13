@@ -1,4 +1,20 @@
+# Visual studio
+
+/.vs
+
+# VS code
+
+/.vscode
+
+# testing
+
 /out/
 /target/
 /test/
 /run/
+
+# JetBeans
+.idea
+cmake-build-debug
+cmake-build-release
+main.exe

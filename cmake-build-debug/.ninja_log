@@ -1,0 +1,16 @@
+# ninja log v5
+34	27805	7160617526351992	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/client/client.cpp.obj	75f285f8b2f92054
+11940	28601	7160783394715538	Branchmining_and_Farming_Simulator.exe	1fb16c6ed2bc008e
+71	221	7159749474223158	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/client/render/screen/screen.cpp.obj	53438154ebeb95e7
+15	1637	7160783125140133	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/startup/arg_parse.cpp.obj	74aea0d87f43b2e8
+21	1466	7160783123414733	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/startup/run_args.cpp.obj	8b17154bc272e3cb
+58	4244	7160617291399085	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/glad.c.obj	b9f10643f69630e5
+26	11940	7160783227913535	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/startup/main.cpp.obj	4164d49c91b578c8
+88	4228	7160617291110042	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/util/tick_counter.cpp.obj	121b51109d572ec2
+21	27865	7160617527182933	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/client/input.cpp.obj	863280004052bba1
+0	1340	7160628784404168	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/main.cpp.obj	6e99583662856bd6
+43	2394	7178070522017883	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/glad.c.obj	89600a70acdc7946
+63	2482	7178070522908846	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/util/tick_counter.cpp.obj	8c445afb0ed80e66
+15	14009	7178070637903935	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/client/client.cpp.obj	12b3b5f57ec7263c
+26	14012	7178070637923634	CMakeFiles/Branchmining_and_Farming_Simulator.dir/src/client/input.cpp.obj	c3ae323cc495c112
+14012	55081	7178071048735196	Branchmining_and_Farming_Simulator.exe	165e4f28ed8ec992
