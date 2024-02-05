@@ -1,0 +1,6 @@
+{
+  "name": {
+    "class": "com.github.svegon.game.plain.text.TranslatableText",
+    "key": "resource_pack.default"
+  }
+}

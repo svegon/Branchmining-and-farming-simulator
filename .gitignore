@@ -6,15 +6,16 @@
 
 /.vscode
 
-# testing
-
-/out/
-/target/
-/test/
-/run/
-
 # JetBeans
-.idea
-cmake-build-debug
-cmake-build-release
-main.exe
+
+/.idea
+/cmake-build-debug
+/cmake-build-release
+
+# debugging
+
+/out
+/target
+/run
+/main.exe
+**/test

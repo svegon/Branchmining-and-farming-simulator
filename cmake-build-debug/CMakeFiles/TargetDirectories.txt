@@ -1,3 +1,0 @@
-C:/Users/otoma/CLionProjects/Branchmining and Farming Simulator/cmake-build-debug/CMakeFiles/Branchmining_and_Farming_Simulator.dir
-C:/Users/otoma/CLionProjects/Branchmining and Farming Simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/otoma/CLionProjects/Branchmining and Farming Simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
